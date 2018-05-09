@@ -8,8 +8,6 @@
 
 Подробное описание и приницип работы в этом видео: https://youtu.be/GCjgDgGg-gc
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/GCjgDgGg-gc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ## Установка
 
 ### Зависимости  
