@@ -24,7 +24,6 @@ opm install -f <Путь к файлу Obnovlyator-<версия>.ospx>
 
 Зависит от:
 * Библиотеки **json**: https://github.com/oscript-library/json
-* Библиотеки **gui**: https://github.com/oscript-library/oscript-simple-gui
 * Библиотеки **TRun1C**: https://github.com/Tavalik/TRun1C
 * Библиотеки **TMail**: https://github.com/Tavalik/TMail
 * Библиотеки **TLog**: https://github.com/Tavalik/TLog
