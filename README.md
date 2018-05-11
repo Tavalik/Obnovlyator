@@ -10,22 +10,26 @@
 
 ## Установка
 
-### Зависимости  
-
-Необходима библиотека **json**: https://github.com/oscript-library/json
+1. Скачать файл "Distr\Obnovlyator-<версия>.ospx"
+2. Запустить установку с помощью пакетного менеджера opm
 
 Установка:
 ``` cmd
-opm install json
+opm install -f <Путь к файлу Obnovlyator-<версия>.ospx>
 ```
 
-Необходим набор библиотек **TLib** : https://github.com/Tavalik/OS_TScripts/tree/master/Tlib
+Можно также воспользоваться командным файлом "install.bat" из директории "Distr"
 
-Установка копированием каталога Tlib в каталог библиотек (по умолчанию в C:\Program Files (x86)\OneScript\lib)
+### Зависимости 
 
-### Установка приложения
+Зависит от:
+* Библиотеки **json**: https://github.com/oscript-library/json
+* Библиотеки **gui**: https://github.com/oscript-library/oscript-simple-gui
+* Библиотеки **TRun1C**: https://github.com/Tavalik/TRun1C
+* Библиотеки **TMail**: https://github.com/Tavalik/TMail
+* Библиотеки **TLog**: https://github.com/Tavalik/TLog
 
-Установка копированием файлов текущего репозитория.
+(все зависимые библиотеки устанавливаются автоматически при условии использования пакетного менеджера opm)
 
 ## Описание и работа с приложением
 
